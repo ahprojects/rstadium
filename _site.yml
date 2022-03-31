@@ -3,6 +3,7 @@ title: "RStadium"
 description: |
   RStadium
 output_dir: "docs"
+theme: "theme.css"
 navbar:
   right:
     - text: "Home"
