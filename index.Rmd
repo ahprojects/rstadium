@@ -11,4 +11,4 @@ output:
 site: distill::distill_website
 ---
 
-RStadium is a research project of ahprojects
+RStadium is a research project of [AH](https://github.com/ahprojects)
