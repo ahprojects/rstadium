@@ -1,18 +1,14 @@
 ---
-title: "rstadium"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "RStadium"
+image: "RStadium_TradingCard.jpg"
+links:
+  - label: '<i class="fab fa-researchgate"></i> Researchgate'
+    url: "https://www.researchgate.net/profile/Abdullah-Hanta"
+  - label: '<i class="fab fa-orcid"></i> orcID'
+    url: "https://orcid.org/0000-0001-6158-5346"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+RStadium is a research project of ahprojects

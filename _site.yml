@@ -1,7 +1,7 @@
-name: "rstadium"
-title: "rstadium"
+name: "RStadium"
+title: "RStadium"
 description: |
-  rstadium
+  RStadium
 output_dir: "docs"
 navbar:
   right:
