@@ -1,9 +1,9 @@
 name: "RStadium"
 title: "RStadium"
+theme: css/jhelvy.css
 description: |
   RStadium
 output_dir: "docs"
-theme: "theme.css"
 navbar:
   right:
     - text: "Home"
