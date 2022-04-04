@@ -12,6 +12,3 @@ site: distill::distill_website
 ---
 
 RStadium is a research project of [AH](https://github.com/ahprojects)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5960459492189083"
-     crossorigin="anonymous"></script>
